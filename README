@@ -4,7 +4,7 @@ NAME
 WARNING
     Warning! Using the module would fall squarely into BAD PRACTICE. You
     should predict what structures your code produces and put them into the
-    test yourself. Simply sumping a result and testing against it is a bad
+    test yourself. Simply dumping a result and testing against it is a bad
     idea. The only exception to this policy is when writing tests to make
     sure the output does not change from what it currently is.
 
@@ -64,6 +64,8 @@ MAGIC
 
 IDEA
     Thanks to Joshua Keroes for proposing the idea.
+
+    "Fucking::Lazy is beautifully horrible" - mst
 
 COPYRIGHT
     Copyright 2014 Chad Granum <exodist7@gmail.com>.

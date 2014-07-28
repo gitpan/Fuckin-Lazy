@@ -28,7 +28,7 @@
    "provides" : {
       "Fuckin::Lazy" : {
          "file" : "lib/Fuckin/Lazy.pm",
-         "version" : "0.000001"
+         "version" : "0.000002"
       }
    },
    "release_status" : "stable",
@@ -43,5 +43,5 @@
          "url" : "http://github.com/exodist/Fuckin-Lazy"
       }
    },
-   "version" : "0.000001"
+   "version" : "0.000002"
 }
